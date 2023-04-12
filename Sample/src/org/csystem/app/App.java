@@ -13,6 +13,8 @@ class App {
 		
 		System.out.println(++val);
 		
+		System.out.print("Deneme");
+		
 		
 	}
 }
